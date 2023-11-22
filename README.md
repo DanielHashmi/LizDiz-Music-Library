@@ -1,2 +1,4 @@
 # LizDiz-Music-Library
-This is a music library that  i created using HTML ,CSS  ,JS . you can Play ,Pause ,Next ,Previous the musics. Note! there might be some issues in this because i'am a beginner so...
+<i>This is a music library that  i created using HTML ,CSS  ,JS . you can Play ,Pause ,Next ,Previous the musics.</i>
+<br>
+<b>Note! there might be some issues in this because i'am a beginner so...</b>
